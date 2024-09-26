@@ -1,2 +1,2 @@
 # automatic-octo-engine
-Automatisera varifiering av SQL-backuper
+Automatisera verifiering av SQL-backuper
